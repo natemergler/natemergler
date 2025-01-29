@@ -1,4 +1,4 @@
-- Virginia Tech CMDA Sophomore 
+- Virginia Tech CMDA Student 
 - Interested in interesting problems
 ---
 - 	Programming Proficiency in Python, Java, JavaScript
