@@ -2,7 +2,10 @@
 - Interested in interesting problems
 
 ## [Reading Wrapped](https://github.com/natemergler/readingwrappedco)
-Inspired by Spotify Wrapped and disappointed in Goodreads, I decided to make a 'wrapped' for books.
+Inspired by Spotify Wrapped and disappointed in Goodreads, I decided to make a 'wrapped' for books. Site is currently down.
+
+![Screenshot 2025-05-27 134934](https://github.com/user-attachments/assets/35c4eb95-8265-4137-aa6b-d2d35332bba9)
+
 ### Tech Stack
 - [Remix](https://remix.run) with React and Typescript
 - [Prisma](https://prisma.io)
