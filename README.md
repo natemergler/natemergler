@@ -1,4 +1,3 @@
-- Virginia Tech CMDA Student 
 - Interested in interesting problems
 
 ## [Reading Wrapped](https://github.com/natemergler/readingwrappedco)
